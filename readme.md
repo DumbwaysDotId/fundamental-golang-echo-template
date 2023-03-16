@@ -6,7 +6,7 @@
 go mod init _project_name_
 ```
 
-### 2. Install gorilla/mux
+### 2. Install labstack/echo
 
 ```bash
 go get github.com/labstack/echo/v4
